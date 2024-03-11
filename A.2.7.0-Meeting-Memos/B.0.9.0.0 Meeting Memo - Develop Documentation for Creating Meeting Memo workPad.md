@@ -11,7 +11,7 @@ CONSUMER: ourStory
 
 `What is the purpose of your platform and what is the current state of its development`
 
-DEG's platform aims to enable Rwandan Alcoholic Beverage Manufacturers to actively engage in the future of African Malanga Neutral Alcohol Supply Chains. Currently, we are developing a series of interconnected platforms over ten years called 'epicPlaylist', comprising multiple quarter-long segments known as 'beatDrops'. Our present focus is on the second beatDrop—B.0.9 Onboarding Platform for trainingfarb, which lasts until April 6th, 2024.
+DEG's platform aims to enable Rwandan Alcoholic Beverage Manufacturers to actively engage in the future of African Malanga Neutral Alcohol Supply Chains. Currently, we are developing a DEG's Parallel Permaculture Platform (P3) with oS3. This consits of creating a platform every 28 days over the course of a year (Each 28-day sprint is called a beatDrop). Our present focus is on the second beatDrop—B.0.9 Onboarding Platform from March 10th to April 6th, 2024.
 
 ## Problem
 
