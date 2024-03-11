@@ -1,4 +1,13 @@
- ## Purpose
+### DEG Entreprises - Meeting MEMO
+# B.0.9.0.0 Meeting Memo - Develop Documentation for Creating Meeting Memo workPad
+Date: 2024.03.10  
+  
+OWNER: DEG Entreprises  
+PRODUCER: trainfarb  
+PROVIDER: hu3agency  
+CONSUMER: ourStory
+
+## Purpose
 
 `What is the purpose of your platform and what is the current state of its development`
 
