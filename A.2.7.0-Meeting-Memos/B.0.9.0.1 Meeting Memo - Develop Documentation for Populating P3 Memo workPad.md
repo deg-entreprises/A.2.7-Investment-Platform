@@ -1,4 +1,8 @@
- #### Purpose
+### DEG Entreprises - Meeting Memo
+# B.0.9.0.1 Develop Documentation for Populating P3 Memo workPad
+Date: 2024.03.11  
+
+#### Purpose
 
 `What is the purpose of your platform and what is your current focus?`
 
