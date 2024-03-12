@@ -1,4 +1,4 @@
- ### DEG Entreprises - Meeting Agenda
+### DEG Entreprises - Meeting Agenda
 # B.0.9.0.1 Develop Documentation for Populating P3 Memo workPad
 Date: 2024.03.11
 
