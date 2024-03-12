@@ -1,6 +1,7 @@
 ### DEG Entreprises - Meeting Memo
 # B.0.9.0.1 Develop Documentation for Populating P3 Memo workPad
 Date: 2024.03.11  
+Proof-of-Work: https://github.com/trainfarb/B.0.9-Onboarding-Platform/blob/529bed2fedecf1c1005beb847b93cd90b457290c/B.0.9.2-Documentation/B.0.9.0.1-Develop%20Documentation%20for%20Populating%20P3%20Memo%20workPad.md
 
 #### Purpose
 
