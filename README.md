@@ -31,10 +31,13 @@ The Power of Our Platform: Our team of seasoned professionals are committed to h
 - Karl Jean-Louis
 - Jacques Achille
 - Partners and Advisors
-  - A.2.7 Investment: [Rwanda Development Board](https://rdb.rw)
-  - D.8.1 Management: [Rwanda Agriculture and Animal Resources Development Board (RAB)](https://www.rab.gov.rw)
-  - G.5.4 Sales: [BDO East Africa](https://www.bdo-ea.com/en-gb/bdo-east-africa)
-  - G.5.4 Sales: [BK Capital](https://bkcapital.rw)
+  - A.2.7 Investment:
+    - [Rwanda Development Board](https://rdb.rw)
+  - D.8.1 Management:
+    - [Rwanda Agriculture and Animal Resources Development Board (RAB)](https://www.rab.gov.rw)
+  - G.5.4 Sales:
+    - [BDO East Africa](https://www.bdo-ea.com/en-gb/bdo-east-africa)
+    - [BK Capital](https://bkcapital.rw)
 
 # Community
 ## Go-To-Market Strategy
