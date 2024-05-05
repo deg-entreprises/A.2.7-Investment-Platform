@@ -23,6 +23,10 @@ DEG's agro-processing technologies create self-sufficient African Supply Chains
 # Manufacturing
 ## Products
 Manufacturered Malanga: DEG’s agro-processing technology transforms Africa’s abundant and neglected Malanga crop into a suite of products
+- Dried Malanga Chips: for long-term storage
+- Malanga Slurry: for direct processing to Neutral Alcohol
+- Malanga Neutral Alcohol: Supply for Alcoholic Beverage Manufacturers (B2B)
+- Licensing: Expanding our Malanga Manufacturing Network
 
 ## Team
 The Power of Our Platform: Our team of seasoned professionals are committed to helping African farmers, manufacturers, and artists thrive in our growing ecosystem
@@ -45,7 +49,9 @@ Collaborative Community Development: DEG’s Go-To-Market Strategy is dedicated 
 - What is DEG?
 - What does DEG Stand For?
 - DEG's History
-- DEG // RAB: Partnership Announcement
+- RAB // DEG: Partnership Announcement
+- XYZ // DEG: Beverage Manufacturer Partner
+- What is oS3?
 
 ## Traction & Metrics
 Manufacturing Mythologies: DEG is a founding member of the Haiti-Rwanda Initiative and ourStory.network. Together, we’re empowering writers, artists, and musicians to transform our progress into a collaborative and creative brand story.
