@@ -3,17 +3,16 @@ A.2.7.0 v0.02 Investment Memo Abstract
 
 ## Purpose
 `What do you do?`  
-Reimagining African Manufacturing: 
-DEG Entreprises enables Farmers, Manufacturers, and Creatives to participate in the future of African Supply Chains
+Reimagining African Manufacturing: Our Agro-Processing Technologies are creating a more profitable and sustainable African Neutral Alcohol industry by localizing foundational supply chain processes.
 
 `What does your producer do?`  
-Supply Chain Platform: [PURPOSE_Producer]
+Supply Chain Platform: Our Agro-Processing Drying Technology unlocks the potential of Malange to give smallholder farmers across africa new, stable, sources of income.
 
 `What does your provider do?`  
-Manufacturing Platform: [PURPOSE_Provider]
+Manufacturing Platform: Our Agro-Processing Slurry Technology prepared Malanga so it can be transformed into countless value-added products that will help African Manufacturing become self-sufficient.
 
 `What does your consumer do?`  
-Community Platform: [PURPOSE_Consumer]
+Community Platform: Our community of designers and engineers create a blockchain enabled business ecosystem that shares our collective story and helps us expand our positive impact.
 
 ## Problem
 `What problem are you solving?`
@@ -33,6 +32,9 @@ DEG's agro-processing technologies create self-sufficient African Supply Chains
 
 ## Process
 `How does solving the problem change behavior?`
+- Focus: Smallholder farmer capacity building
+- Productivity: Manufacturing workforce development
+- Creativity: Art Driven Decentralized Community Development
 
 ## Products
 `How does solving the problem make you money?`
@@ -44,6 +46,9 @@ Manufacturered Malanga: DEG’s agro-processing technology transforms Africa’s
 
 ## Opportunity
 `What is the scale of this opportunity?`
+$60M Market in Rwanda
+$ Market in East Africa
+$ Licensing Opportunity
 
 ## Team
 `Who are you and what makes you special?`
