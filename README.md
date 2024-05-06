@@ -15,29 +15,29 @@ Manufacturing Platform: Our Agro-Processing Slurry Technology prepared Malanga s
 Community Platform: Our community of designers and engineers create a blockchain enabled business ecosystem that shares our collective story and helps us expand our positive impact.
 
 ## Problem
-`What problem are you solving?`
+`What problem are you solving?`  
 African Manufacturers are dependent on costly foreign imports
 
-`How does the world work in relation to this problem?`
+`How does the world work in relation to this problem?`  
 - Unsustainable Supply Chains
 - Unstable Cost Variability
 - Unpredictable Cost Projections
 
 ## Solution
-`How do you solve this problem?`
+`How do you solve this problem?`  
 DEG's agro-processing technologies create self-sufficient African Supply Chains
 - Sustainable Supply Chains: Agro-Processing Long-term storage technology transforms local, neglected, and abundant subsistence crops into industrial ready crops
 - Improve Cost Control: Agro-Processing Manufacturing technology brings critical manufacturing to local so African communities can stabilize costs
 - Predictable Future Earnings Projections: This transparent supply chain enables all participants to plan for the future and develop their communities
 
 ## Process
-`How does solving the problem change behavior?`
+`How does solving the problem change behavior?`  
 - Focus: Smallholder farmer capacity building
 - Productivity: Manufacturing workforce development
 - Creativity: Art Driven Decentralized Community Development
 
 ## Products
-`How does solving the problem make you money?`
+`How does solving the problem make you money?`  
 Manufacturered Malanga: DEG’s agro-processing technology transforms Africa’s abundant and neglected Malanga crop into a suite of products
 - Dried Malanga Chips: for long-term storage
 - Malanga Slurry: for direct processing to Neutral Alcohol
@@ -45,13 +45,13 @@ Manufacturered Malanga: DEG’s agro-processing technology transforms Africa’s
 - Licensing: Expanding our Malanga Manufacturing Network
 
 ## Opportunity
-`What is the scale of this opportunity?`
+`What is the scale of this opportunity?`  
 $60M Market in Rwanda
 $ Market in East Africa
 $ Licensing Opportunity
 
 ## Team
-`Who are you and what makes you special?`
+`Who are you and what makes you special?`  
 The Power of Our Platform: Our team of seasoned professionals are committed to helping African farmers, manufacturers, and artists thrive in our growing ecosystem
 - Felix Achille
 - Maggie Maingana
@@ -66,5 +66,5 @@ The Power of Our Platform: Our team of seasoned professionals are committed to h
     - [BDO East Africa](https://www.bdo-ea.com/en-gb/bdo-east-africa)
     - [BK Capital](https://bkcapital.rw)
 
-`How much are you raising and what are you going to do with it?`
+`How much are you raising and what are you going to do with it?`  
 Call to Action: Read Investment Memo
