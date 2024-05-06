@@ -1,18 +1,19 @@
-DEG Entreprises: A Malanga Manufacturing Platform Ecosystem
-A.2.7 Investment Memo  
+### DEG Entreprises: A Malanga Manufacturing Platform Ecosystem  
+A.2.7.0 v0.02 Investment Memo Abstract
 
 ## Purpose
-`What do you do?`
-Reimagining African Manufacturing: DEG Entreprises enables Farmers, Manufacturers, and Creatives to participate in the future of African Supply Chains
+`What do you do?`  
+Reimagining African Manufacturing: 
+DEG Entreprises enables Farmers, Manufacturers, and Creatives to participate in the future of African Supply Chains
 
-`What does your producer do?`
+`What does your producer do?`  
 Supply Chain Platform: [PURPOSE_Producer]
 
-`What does your provider do?`
-- Manufacturing Platform: [PURPOSE_Provider]
+`What does your provider do?`  
+Manufacturing Platform: [PURPOSE_Provider]
 
-`What does your consumer do?`
-- Community Platform: [PURPOSE_Consumer]
+`What does your consumer do?`  
+Community Platform: [PURPOSE_Consumer]
 
 ## Problem
 `What problem are you solving?`
