@@ -1,4 +1,4 @@
-## DEG Entreprises: A Malanga Manufacturing Platform Ecosystem
+DEG Entreprises: A Malanga Manufacturing Platform Ecosystem
 A.2.7 Investment Memo  
 
 ## Purpose
